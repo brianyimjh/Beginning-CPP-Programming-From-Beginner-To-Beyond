@@ -1,0 +1,4 @@
+-IC:\Users\brian\Desktop\Section6\Challenge
+-std=c++20
+-target
+
